@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caner Aktaş</h1>
-<h3 align="center">Jr. frontend developer</h3>
+<h3 align="center">Jr. Full Stack developer</h3>
 
 - 📫 How to reach me **caneraktas09@gmail.com**
 
